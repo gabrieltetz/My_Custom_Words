@@ -682,6 +682,8 @@
 /confluence
 /conn.php.bak
 /connz
+/wp-config.php.old
+/wp-config.php
 /console
 /console/login/LoginForm.jsp
 /consoles
