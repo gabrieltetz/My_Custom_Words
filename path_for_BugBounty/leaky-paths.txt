@@ -1,3 +1,4 @@
+/files.md5
 //google.com/..;/css
 /+CSCOE+/logon.html
 /+CSCOT+/oem
