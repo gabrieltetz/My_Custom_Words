@@ -526,6 +526,9 @@
 /apis/metrics.k8s.io
 /apis/v1
 /apiv1/
+/appsettings.jsont
+/appsettings.js
+/appsettings.json
 /aplicacao/application/configs/application.ini
 /app/config/parameters.yml
 /app/config/parameters.yml.dist
